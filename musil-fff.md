@@ -26,6 +26,19 @@ Corresponding fff code (lineation original):
 <RD><GR:"Band 3"><CS:ZEILENZAHL>12</CS> es vermied, mit rücksichtslosem Zugreifen den üblichen männlichen
 ```
 
+Corresponding fff code
+`<RD><GR:"Band 3"><CS:ZEILENZAHL>3</CS> die Gesundheit auf den tierischen Teil des Menschen zu gründen,
+<RD><GR:"Band 3"><CS:ZEILENZAHL>4</CS> geistiger und sittlicher Adel sind es vielmehr, woraus die körperliche
+<RD><GR:"Band 3"><CS:ZEILENZAHL>5</CS> Widerstandsfähigkeit hervorgeht; und wenn °das auch nicht immer
+<RD><GR:"Band 3"><CS:ZEILENZAHL>6</CS> auf den #E#<FT:Wingdings,FX,SY>n<FT>\e<PW:"POPUP Erläuterung ",2.27083,1.54167,"Popup-Verknüpfung">Bleistift Latein rechts.<LT>°<EL>|<FT:Wingdings,FX,SY>n<FT>inzelnen zutrifft, *so #d# <FT:Wingdings,FX,SY>n<FT>\°°trifft es
+<RD><GR:"Band 3"><CS:ZEILENZAHL>7</CS>  d°°<PW:"POPUP Erläuterung ",2.27083,1.54167,"Popup-Verknüpfung">Bleistift Latein links.<LT>°<EL>|<FT:Wingdings,FX,SY>n<FT>afür* <FT:Wingdings,FX,SY>n<FT>\°°*so wirkt es doch* *tut es das*°°<PW:"POPUP Erläuterung ",2.27083,1.54167,"Popup-Verknüpfung">Bleistift Latein links.<LT>°<EL>|<FT:Wingdings,FX,SY>n<FT> umso 
+<RD><GR:"Band 3"><CS:ZEILENZAHL>8</CS> sicherer im #G#<FT:Wingdings,FX,SY>n<FT>\g<PW:"POPUP Erläuterung ",2.27083,1.54167,"Popup-Verknüpfung">Bleistift Latein rechts.<LT>°<EL>|<FT:Wingdings,FX,SY>n<FT>roßen<FT:Wingdings,FX,SY>n<FT>\°°zu°°<PW:"POPUP Erläuterung ",2.27083,1.54167,"Popup-Verknüpfung">Bleistift Latein rechts.<LT>°<EL>|<FT:Wingdings,FX,SY>n<FT>,
+<RD><GR:"Band 3"><CS:ZEILENZAHL>9</CS> denn die Kraft eines Volkes ist die Folge des rechten Geistes, und
+<RD><GR:"Band 3"><CS:ZEILENZAHL>10</CS> nicht gilt es umgekehrt. Lindner hatte darum seinen Abreibungen auch
+<RD><GR:"Band 3"><CS:ZEILENZAHL>11</CS> eine besondere und sorgfältige Ausbildung°<PX:"NUMMERN-POPUP","50_1">«50_1»<EL> angedeihen lassen, die
+<RD><GR:"Band 3"><CS:ZEILENZAHL>12</CS> es vermied, mit rücksichtslosem Zugreifen den üblichen männlichen`
+
+
 ### deleted and restored
 ![grafik](https://user-images.githubusercontent.com/10358005/36736595-534e5458-1bd9-11e8-9895-0ae2909f2a48.png)
 (Mappe Druckfahnen, p.&nbsp;7, Ausschnitt; cf. corresponding [TEI encoding](https://github.com/musilonline/musil-xml/blob/66e272cba88c0e0f7f234f81dcb4ec24520c5137/druckfahnen_kap39-41_version2018-02-21kg.xml#L792))
