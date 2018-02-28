@@ -1,7 +1,7 @@
 Musil in folio flat file format 
 ======
 
-For fff in general, see [musil-convert.md#folio-flat-file-format-fff](https://github.com/musilonline/musil-conversion/blob/master/musil-convert.md#folio-flat-file-format-fff).
+For fff in general, see [musil-convert.md#folio-flat-file-format-fff](https://github.com/musilonline/musil-convert/blob/master/musil-convert.md#folio-flat-file-format-fff).
 
 ## examples
 
